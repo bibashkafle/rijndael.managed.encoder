@@ -1,0 +1,12 @@
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\yubikey\yubikey\bin\Debug\yubikey.exe
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\yubikey\yubikey\bin\Debug\yubikey.pdb
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\yubikey\yubikey\obj\x86\Debug\yubikey.exe
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\yubikey\yubikey\obj\x86\Debug\yubikey.pdb
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\yubikey\yubikey\bin\Debug\yubikey.exe.config
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\yubikey\yubikey\obj\x86\Debug\Yubikey.csprojResolveAssemblyReference.cache
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\Rijindael\Yubikey\Yubikey\bin\Debug\Yubikey.exe.config
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\Rijindael\Yubikey\Yubikey\obj\x86\Debug\Yubikey.exe
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\Rijindael\Yubikey\Yubikey\obj\x86\Debug\Yubikey.pdb
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\Rijindael\Yubikey\Yubikey\bin\Debug\Yubikey.exe
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\Rijindael\Yubikey\Yubikey\bin\Debug\Yubikey.pdb
+C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\Rijindael\Yubikey\Yubikey\obj\x86\Debug\Yubikey.csprojResolveAssemblyReference.cache
