@@ -3,3 +3,8 @@ c:\users\biabsh\documents\visual studio 2010\Projects\Rijindael\Rijindael\bin\De
 c:\users\biabsh\documents\visual studio 2010\Projects\Rijindael\Rijindael\obj\x86\Debug\Rijindael.exe
 c:\users\biabsh\documents\visual studio 2010\Projects\Rijindael\Rijindael\obj\x86\Debug\Rijindael.pdb
 C:\Users\Biabsh\Documents\Visual Studio 2010\Projects\Rijindael\Rijindael\obj\x86\Debug\Rijindael.csprojResolveAssemblyReference.cache
+D:\bibash.com.np\rijndael.managed.encoder\Rijindael\bin\Debug\Rijindael.exe
+D:\bibash.com.np\rijndael.managed.encoder\Rijindael\bin\Debug\Rijindael.pdb
+D:\bibash.com.np\rijndael.managed.encoder\Rijindael\obj\x86\Debug\Rijindael.csprojResolveAssemblyReference.cache
+D:\bibash.com.np\rijndael.managed.encoder\Rijindael\obj\x86\Debug\Rijindael.exe
+D:\bibash.com.np\rijndael.managed.encoder\Rijindael\obj\x86\Debug\Rijindael.pdb

@@ -14,7 +14,7 @@ namespace Rijindael
             var ivKey = "0C790D11A2C619DB07C19F526CC505F5";
             var obj = new CryptoRijndael();
             var encrypt = obj.Encrypt(text, password, ivKey);
-            var decrypt = obj.Decrypt(text,password, ivKey);
+            var decrypt = obj.Decrypt(encrypt, password, ivKey);
             Console.WriteLine("\nPlain Text is: " + decrypt);
             Console.ReadLine();
 
